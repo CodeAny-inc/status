@@ -10,7 +10,7 @@ assignees:
 status-website:
   cname: status.codeany.org
   logoUrl: https://cdn.codeany.org/file/codeany-files/static/main/img/codeAnyLogo.svg
-  name: Uptime | CodeAny
+  name: Status Page | CodeAny
   introTitle: "**CodeAny** Status Page"
   introMessage: Here you can always check whether CodeAny webpages are up or not.
   navbar:
@@ -20,3 +20,5 @@ status-website:
       href: https://codeany.org/
     - title: GitHub
       href: https://github.com/$OWNER
+i18n:
+  footer: All rights reserved. CodeAny Ⓒ 2024
