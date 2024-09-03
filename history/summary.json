@@ -4,19 +4,19 @@
     "url": "https://codeany.org",
     "icon": "https://icons.duckduckgo.com/ip3/codeany.org.ico",
     "slug": "code-any",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 698,
-    "timeDay": 704,
-    "timeWeek": 673,
-    "timeMonth": 698,
-    "timeYear": 698,
+    "status": "up",
+    "uptime": "98.11%",
+    "uptimeDay": "64.31%",
+    "uptimeWeek": "94.90%",
+    "uptimeMonth": "98.11%",
+    "uptimeYear": "98.11%",
+    "time": 1768,
+    "timeDay": 14072,
+    "timeWeek": 4019,
+    "timeMonth": 1768,
+    "timeYear": 1768,
     "dailyMinutesDown": {
-      "2024-09-03": 0
+      "2024-09-03": 514
     }
   }
 ]
