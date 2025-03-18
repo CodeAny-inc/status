@@ -4,7 +4,7 @@
     "url": "https://codeany.org",
     "icon": "https://icons.duckduckgo.com/ip3/codeany.org.ico",
     "slug": "code-any",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 820,
     "timeYear": 838,
     "dailyMinutesDown": {
+      "2025-03-18": 0,
       "2025-03-04": 20,
       "2025-02-22": 30,
       "2024-11-04": 72,
